@@ -1,2 +1,2 @@
 # Deep-Learning-and-AI
-Deep Learning Tools
+MMA 'Leveraging AI and Deep Learning Tools in Marketing' course assignments' code
